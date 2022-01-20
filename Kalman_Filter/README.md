@@ -46,9 +46,9 @@ After creating the new environment, we'd have to activate to enter the newly cre
 
 Library Name  | Command
 ------------- | -------------
-Numpy         | ```bash conda install numpy```
-Matplotlib    | ```bash conda install matplotlib```
-Ipython       | ```bash conda install Ipython```
+Numpy         | ```conda install numpy```
+Matplotlib    | ```install matplotlib```
+Ipython       | ```conda install Ipython```
 
 Or you may also use Jupyter Notebook for the same.
 
