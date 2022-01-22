@@ -1,6 +1,8 @@
 
 # Kalman Filters
 
+![Kalman Filters](https://user-images.githubusercontent.com/94236807/150651609-4fde4c8e-9831-41f7-b6c5-726084902823.png)
+
 #### What are Kalman Filters?
 There has been quite remarkable advancements happening around the world. Most of the advanced machines and
 instruments are majorly dependent on the numerous sensors inorder to estimate the unknown variables
